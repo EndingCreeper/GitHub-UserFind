@@ -1,5 +1,5 @@
 {
-    "name" : "Git-Profile-Finder by Nilesh",
+    "name" : "Git-Profile-Finder by sreeman-tech",
     "short_name": "Git-Finder",
     "start_url": "index.html",
     "scope":"./",
@@ -7,12 +7,12 @@
         {
           "src": "title.png",
           "sizes": "192x192",
-          "type": "image/png"
+          "type": ""
         },
         {
           "src": "title.png",
           "sizes": "512x512",
-          "type": "image/png"
+          "type": ""
         }
       ],
       "theme_color": "#ffd31d",
