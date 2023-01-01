@@ -4,7 +4,7 @@ JavaScript Project - GitHub profiles app
 
 ## Example
 
-![image](https://github.com/nileshkr17/Git-Finder/blob/main/f1.gif)
+![image](https://github.com/sreeman-tech/)
 
 ## Maintainers
 
