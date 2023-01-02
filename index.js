@@ -2,11 +2,11 @@ if ("serviceWorker" in navigator) {
   // register service worker
   navigator.serviceWorker.register("service-worker.js");
 }
-const APIURL = "https://api.github.com/users/";
+const APIURL = "https://api.instagram.com/users/";
 const main = document.getElementById("main");
 const form = document.getElementById("form");
 const search = document.getElementById("search");
-getUser("sreeman-tech");
+getUser("sreeman_2805");
 async function getUser(username) {
     const resp = await fetch(APIURL + username);
     const respData = await resp.json();
